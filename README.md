@@ -7,4 +7,4 @@ Chrome Extension to show the latest data on covid of UK
 * [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 
-Author [Sampurna Chapagain](https://twitter.com/saam_codes)
+Author [Ranjeet Singh](https://twitter.com/saam_codes)
